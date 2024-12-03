@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24906270022",
+    "project_id": "asteshary-6076d",
+    "storage_bucket": "asteshary-6076d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24906270022:android:57d93ecf76a0ff4c871147",
+        "android_client_info": {
+          "package_name": "com.triple.astshary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoRslnakx5QCxbR19xcdkStnuBhIxGWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

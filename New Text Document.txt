@@ -1,0 +1,1 @@
+java -jar pepk.jar --keystore=astshary_signed.jks --alias=key0 --output=output.zip --include-cert --rsa-aes-encryption --encryption-key-path=C:/Users/Dell/StudioProjects/Astshary/encryption_public_key.pem
