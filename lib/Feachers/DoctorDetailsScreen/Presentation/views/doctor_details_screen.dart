@@ -66,6 +66,7 @@ class _DoctorDetailsViewState extends State<DoctorDetailsView> {
   Widget build(BuildContext context) {
     return BlocBuilder<SpecialtiesCubit, SpecialtiesState>(
       builder: (context, state) {
+
         var cubit = SpecialtiesCubit.get(context);
 
         return Scaffold(
